@@ -1,0 +1,203 @@
+
+#sapiens {
+	position: absolute;
+
+	bottom: 0px;
+	left: 0px;
+
+	width: 40px;
+	height: 390px;
+	}
+ 
+#influence {
+	position: absolute;
+
+	bottom: 0px;
+	left: 40px;
+
+	width: 40px;
+	height: 400px;
+	}
+
+#inColdBlood {
+	position: absolute;
+
+	bottom: 0px;
+	left: 80px;
+
+	width: 70px;
+	}
+
+#badBlood {
+	position: absolute;
+
+	bottom: 0px;
+	left: 150px;
+
+	height: 375px;
+	width: 40px;
+	}
+
+#theAlchemist {
+	position: absolute;
+
+	bottom: 0px;
+	left: 190;
+
+	width: 40px;
+	}
+
+#steveJobs {
+	position: absolute;
+
+	bottom: 0px;
+	left: 230;
+
+	width: 60px;
+	}
+
+#shoeDog {
+	position: absolute;
+
+	bottom: 0px;
+	left: 290px;
+
+	width: 33px;
+	}
+
+
+#bloodMeridian {
+	position: absolute;
+
+	bottom: 0px;
+	left: 323px;
+
+	width: 50px;
+	}
+
+#j112263 {
+	position: absolute;
+
+	bottom: 0px;
+	left: 373px;
+
+	width: 75px;
+	}
+
+#catsCradle {
+	position: absolute;
+
+	bottom: 0px;
+	left: 448px;
+
+	width: 35px;
+	}
+
+#oldManAndSea {
+	position: absolute;
+
+	bottom: 0px;
+	left: 483px;
+
+	width: 35px;
+	}
+
+#yourejoking{
+	position: absolute;
+
+	bottom: 0px;
+	left: 518px;
+
+	width: 37px;
+	}
+
+#briefWondrous{
+	position: absolute;
+
+	bottom: 0px;
+	left: 555px;
+
+	width: 37px;
+	}
+
+#norwegianWood{
+	position: absolute;
+
+	bottom: 0px;
+	left: 592px;
+
+	width: 40px;
+	}
+
+
+#davinciCode{
+	position: absolute;
+
+	bottom: 0px;
+	left: 632px;
+
+	width: 40px;
+	height: 380px;
+	}
+
+#kiteRunner{
+	position: absolute;
+
+	bottom: 0px;
+	left: 720px;
+
+	width: 40px;
+	height: 380px;
+
+	transform: rotate(-15deg);
+	}
+
+#neverLetMeGo {
+	position: absolute;
+
+	bottom: 0px;
+	left: 820px;
+
+	width: 350px;
+	height: 35px;
+	}
+
+#willPower{
+	position: absolute;
+
+	bottom: 35px;
+	left: 820px;
+
+	width: 300px;
+	height: 20px;
+	}
+
+#lifePi{
+	position: absolute;
+
+	bottom: 55px;
+	left: 820px;
+
+	width: 330px;
+	height: 40px;
+	}
+
+#manSearch{
+	position: absolute;
+
+	bottom: 95px;
+	left: 820px;
+
+	width: 330px;
+	height: 20px;
+	}
+
+
+#multiplebooks:hover > .book{
+	filter: blur(2px) brightness(.3);
+	}
+
+#multiplebooks:hover > .book:hover{
+	filter: blur(0px);
+	opacity: 1;
+	}

@@ -1,0 +1,145 @@
+html body {
+	margin: 0px;
+}
+
+#summaries{
+	position: absolute;
+	visibility: hidden;
+	overflow: scroll;
+	opacity: 0;
+
+	top: 0px;
+	height: 850px;
+
+	line-height: 1.4em;
+	}
+
+
+#progress-bar {
+	position: fixed;
+  	background: white;
+    opacity: .8;
+
+	top: 0px;
+    height: 10px;
+	  
+    width: 0%;
+	}
+
+#xcontainer{
+	position: fixed;
+
+	top: 75px;
+	left: 75px;
+
+	width: 50px;
+	}
+#x{
+	position: fixed;
+
+	top: 75px;
+	left: 75px;
+
+	width: 50px;
+	}
+
+#down{
+	position: fixed;
+
+	top: 90%;
+	left: 45%;
+
+	width: 50px;
+	}	
+
+.bookcontainer{
+	position: relative;
+	background: rgba(30,30,30, 0.95);
+
+	height: 793px;
+	width: 1440px;
+	}
+
+.picture{
+	position: absolute;
+
+	top: 150px;
+	left: 220px;
+
+	width: 400px;
+	height: 400px;	
+	}
+
+.bookcover{
+	width: 300px;
+}
+
+.title{
+	position: absolute;
+	color: white;
+
+	top: 200px;
+	left: 625px;
+
+	width: 600px;
+	height: 100px;
+
+	font-family: futura;
+	font-size: 25pt;
+}
+
+.summary{
+	position: absolute;
+	top: 300px;
+	left: 625px;
+
+	width: 600px;
+	height: 200px;
+
+	color: white;
+	font-family: bilo;
+	font-size: 12pt;
+}
+
+#carousel-container{
+	position: fixed;
+  
+  	right: 3px;
+  	top: 80px;
+
+ 	width: 150px;
+ 	height: 600px;
+}
+
+#carousel{
+  position: fixed;
+  border-radius: 25px;
+  background-color: white;
+  opacity: 0;
+  overflow: scroll;
+  
+  right: 0px;
+  top: 80px;
+
+  width: 150px;
+  height: 600px;
+}
+
+.bookcoverCarousel{
+  position: relative;
+
+  margin-top: 37.5px;
+  
+  height: 150px;
+
+}
+
+.bookcoverCarousel:hover{
+	outline: #333 solid 4px;
+}
+
+#carousel-column{
+  position: absolute;
+  text-align: center;
+}
+
