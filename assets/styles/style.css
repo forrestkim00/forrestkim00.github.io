@@ -26,6 +26,13 @@ html body {
 	width: 100%;
 }
 
+@media screen and (min-height: 900px) {
+  #basePic{
+	height: 250px;
+	width: 100%;
+	}
+}
+
 #bluenamelabel{
 	position: absolute;
 	transform: rotate(2deg);
