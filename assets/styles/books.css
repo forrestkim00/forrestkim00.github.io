@@ -200,4 +200,5 @@
 #multiplebooks:hover > .book:hover{
 	filter: blur(0px);
 	opacity: 1;
+	cursor: pointer;
 	}
